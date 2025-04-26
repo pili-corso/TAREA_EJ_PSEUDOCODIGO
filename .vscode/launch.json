@@ -1,0 +1,62 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+
+    {
+      "name": "Ejercicio 1 - Área y Perímetro",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/AreayPerimetro.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Ejercicio 2 - Porcentaje de Hombres y Mujeres",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/PorcentajeSexo.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Ejercicio 3 - Edad y Peso Promedio",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/EdadYPeso.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Ejercicio 4 - Numero Primo",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/NumeroPrimo.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Ejercicio 5 - Factorial",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/Factorial.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "console": "integratedTerminal"
+    }
+
+  ]
+}
